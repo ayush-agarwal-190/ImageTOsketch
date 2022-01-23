@@ -14,3 +14,4 @@ pencil_sketch =cv2.divide(gray_image, inverted_blurred, scale=256.0)
 cv2.imshow("Original Image" , image)
 cv2.imshow("Pencil Sketch of Dog" , pencil_sketch)
 cv2.waitKey(0)
+                 #**************SUBSCRIBE***********#
